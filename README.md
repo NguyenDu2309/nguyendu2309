@@ -16,7 +16,7 @@
 
 ## About Me
 - 🎓 4th-year Information Technology student at Ho Chi Minh University of Education (HCMUE).  
-- ⚛️ Passionate about building modern, responsive web applications with React and Next.js.  
+- ⚛️ Passionate about building modern, responsive web applications with React and .NET.  
 - 💡 Interests: backend development, modern web frameworks, and clean architecture design.  
 - 🤝 Open to internships, mentorship, and collaboration opportunities.
 
