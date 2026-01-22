@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="header" src="https://img.shields.io/badge/Full--stack%20Developer-Performance%20Focused-blue?style=for-the-badge&logo=appveyor" />
+  <img alt="header" src="https://img.shields.io/badge/Backend%20Developer-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nguyễn Du</h1>
